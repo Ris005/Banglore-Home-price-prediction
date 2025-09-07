@@ -111,5 +111,3 @@ Aspiring Data Science/Analyst
 📍 Patna, India  
 
 ---
-
-Let me know if you want help writing the `app.py`, creating visuals for your repo, or deploying this project to the cloud. We can turn this into a portfolio centerpiece.
